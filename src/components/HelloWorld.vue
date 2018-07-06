@@ -6,7 +6,7 @@
 
 <script>
 var msg = prompt("What is your name?");
-  document.write ("Oh, my gosh, " + msg + ", we've just made a unique web experience together!");
+  document.write ("Oh my gosh, " + msg + ", we've just made a unique web experience together!");
 
 
 
